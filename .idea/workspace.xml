@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8505f831-0673-421c-b1d3-24dcd03fb0d0" name="Default Changelist" comment="" />
+    <list default="true" id="8505f831-0673-421c-b1d3-24dcd03fb0d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603963435492</updated>
       <workItem from="1603963436559" duration="1497000" />
-      <workItem from="1604042804268" duration="2018000" />
+      <workItem from="1604042804268" duration="4066000" />
     </task>
     <servers />
   </component>
@@ -57,10 +59,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1242" y="182" key="#PHP/0.0.2048.1112@0.0.2048.1112" timestamp="1603964238598" />
-    <state x="1330" y="480" key="NewPhpFileDialog" timestamp="1604044831223">
+    <state x="1330" y="480" key="NewPhpFileDialog" timestamp="1604046729674">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1330" y="480" key="NewPhpFileDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1604044831223" />
+    <state x="1330" y="480" key="NewPhpFileDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1604046729674" />
     <state x="1038" y="202" key="SettingsEditor" timestamp="1603964201171">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -69,5 +71,15 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1195" y="289" width="579" height="534" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1604045502572" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$USER_HOME$/Downloads/01-Introduccion/ejercicio17.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
