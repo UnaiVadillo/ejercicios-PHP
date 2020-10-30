@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d182aa6-fca3-4045-8014-60ab633c3fc7" name="vagrant server" url="http://localhost:8765">
+        <fileTransfer mountedRoot="C:\" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
